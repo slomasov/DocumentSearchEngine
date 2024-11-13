@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: edu.yu.cs.com1320.project.MinHeapImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.003 s <<< FAILURE! - in edu.yu.cs.com1320.project.MinHeapImplTest
+edu.yu.cs.com1320.project.MinHeapImplTest.reHeapifyTest  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.ClassCastException: class [Ljava.lang.Comparable; cannot be cast to class [Ljava.lang.String; ([Ljava.lang.Comparable; and [Ljava.lang.String; are in module java.base of loader 'bootstrap')
+	at edu.yu.cs.com1320.project.MinHeapImplTest.reHeapifyTest(MinHeapImplTest.java:43)
+
